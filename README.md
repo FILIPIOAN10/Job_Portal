@@ -1,0 +1,1 @@
+In this project, I developed a job portal application. As a recruiter, you can create an account, post job listings, and make them visible to potential candidates. Applicants can register, browse available jobs, and apply directly through the platform.
