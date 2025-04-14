@@ -29,7 +29,10 @@ Authentication: JWT / OAuth / Firebase Auth
 Hosting: AWS / Heroku / Netlify / Vercel
 
 Outcome:
-The platform provides an intuitive, user-friendly experience that simplifies the hiring process for recruiters while offering a convenient job search and application experience for candidates.![1](https://github.com/user-attachments/assets/3673b89d-cb81-4cbf-a843-6ec793312e1d)
-![job_seeker_dashboard](https://github.com/user-attachments/assets/51c9ad5b-48fb-4e4c-8f5c-429239749b63)
-![recruiter_dashboard](https://github.com/user-attachments/assets/9b49dbd8-632f-447a-ba2a-8187f09b5ce9)
-![login page](https://github.com/user-attachments/assets/03be9aa9-ec3a-4efc-a43f-e874d64ee90e)
+The platform provides an intuitive, user-friendly experience that simplifies the hiring process for recruiters while offering a convenient job search and application experience for candidates.
+
+![1](https://github.com/user-attachments/assets/39609739-01b1-47d6-8b26-11eeedc9b976)
+![job_seeker_dashboard](https://github.com/user-attachments/assets/9973cdd2-1df1-45e3-a07d-0513abd64c1a)
+![login page](https://github.com/user-attachments/assets/9f8a3a22-1588-4cd2-8308-b86f7fe2e473)
+![recruiter_dashboard](https://github.com/user-attachments/assets/92c6228d-c9d8-4bd7-90d8-0b74dcc55edb)
+
