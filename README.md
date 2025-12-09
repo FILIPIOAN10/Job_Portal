@@ -16,18 +16,6 @@ Job seekers can create personalized profiles, upload resumes, and browse all ava
 Job Application Management:
 The platform tracks applications made by users and allows recruiters to review and manage them in real-time. Additional features include bookmarking jobs, application history, and status updates.
 
-Tech Stack Highlights (customizable based on your actual implementation):
-
-Frontend: React / Angular / Vue (or plain HTML/CSS/JS)
-
-Backend: Node.js / Django / Flask / Laravel
-
-Database: MongoDB / PostgreSQL / MySQL
-
-Authentication: JWT / OAuth / Firebase Auth
-
-Hosting: AWS / Heroku / Netlify / Vercel
-
 Outcome:
 The platform provides an intuitive, user-friendly experience that simplifies the hiring process for recruiters while offering a convenient job search and application experience for candidates.
 
